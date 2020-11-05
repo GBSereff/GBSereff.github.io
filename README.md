@@ -1,4 +1,4 @@
-## Welcome to Guy's World
+## Guy B. Sereff 1.0
 
 You can use the [editor on GitHub](https://github.com/GBSereff/GBSereff.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
